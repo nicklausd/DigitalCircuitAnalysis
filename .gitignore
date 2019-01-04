@@ -328,3 +328,6 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+/DigitalCircuitAnalysis/DigitalCircuitAnalysis/DigitalCircuitAnalysis.vcxproj
+/DigitalCircuitAnalysis/DigitalCircuitAnalysis/DigitalCircuitAnalysis.vcxproj.filters
+/DigitalCircuitAnalysis/DigitalCircuitAnalysis.sln
